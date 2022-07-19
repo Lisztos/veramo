@@ -10,9 +10,9 @@
 /node_modules
 website/node_modules
 
-**/build/
+
 **/*.log
-/packages/*/build/
+
 /packages/*/api/*.api.json
 /packages/*/api/*.api.md
 /packages/*/coverage/
