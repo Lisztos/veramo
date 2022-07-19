@@ -33,7 +33,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "repository": "git@github.com:uport-project/veramo.git",
+ "repository": "git@github.com:Lisztos/veramo.git",
   "author": "Konstantin Tsabolov <konstantin.tsabolov@spherity.com>",
   "contributors": [],
   "license": "Apache-2.0",

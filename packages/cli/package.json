@@ -18,18 +18,18 @@
     "@microsoft/api-extractor-model": "7.18.0",
     "@types/blessed": "^0.1.17",
     "@types/swagger-ui-express": "^4.1.3",
-    "@veramo/core": "^3.1.4",
+    "@veramo/core": "https://gitpkg.now.sh/Lisztos/veramo/packages/core?next",
     "@veramo/credential-w3c": "^3.1.4",
     "@veramo/data-store": "^3.1.4",
     "@veramo/did-comm": "^3.1.4",
     "@veramo/did-discovery": "^3.1.4",
     "@veramo/did-jwt": "^3.1.4",
-    "@veramo/did-manager": "^3.1.4",
+    "@veramo/did-manager":"https://gitpkg.now.sh/Lisztos/veramo/packages/did-manager?next",
     "@veramo/did-provider-ethr": "^3.1.4",
     "@veramo/did-provider-key": "^3.1.4",
     "@veramo/did-provider-web": "^3.1.4",
-    "@veramo/did-resolver": "^3.1.4",
-    "@veramo/key-manager": "^3.1.4",
+    "@veramo/did-resolver":"https://gitpkg.now.sh/Lisztos/veramo/packages/did-resolver?next",
+    "@veramo/key-manager":"https://gitpkg.now.sh/Lisztos/veramo/packages/key-manager?next",
     "@veramo/kms-local": "^3.1.4",
     "@veramo/message-handler": "^3.1.4",
     "@veramo/remote-client": "^3.1.4",
@@ -90,7 +90,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "repository": "git@github.com:uport-project/veramo.git",
+ "repository": "git@github.com:Lisztos/veramo.git",
   "author": "Simonas Karuzas <simonas.karuzas@mesh.xyz>",
   "contributors": [
     {

@@ -16,7 +16,7 @@
   "dependencies": {
     "@ethersproject/signing-key": "^5.5.0",
     "@stablelib/ed25519": "^1.0.2",
-    "@veramo/core": "^3.1.4",
+    "@veramo/core": "https://gitpkg.now.sh/Lisztos/veramo/packages/core?next",
     "@veramo/message-handler": "^3.1.4",
     "@veramo/utils": "^3.1.4",
     "cross-fetch": "^3.1.4",
@@ -41,7 +41,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "repository": "git@github.com:uport-project/veramo.git",
+ "repository": "git@github.com:Lisztos/veramo.git",
   "author": "Simonas Karuzas <simonas.karuzas@mesh.xyz>",
   "contributors": [
     "Mircea Nistor <mircea.nistor@mesh.xyz",

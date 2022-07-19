@@ -18,8 +18,8 @@
     "@ethersproject/wallet": "^5.6.2",
     "@stablelib/ed25519": "^1.0.2",
     "@stablelib/nacl": "^1.0.2",
-    "@veramo/core": "^3.1.4",
-    "@veramo/key-manager": "^3.1.4",
+    "@veramo/core": "https://gitpkg.now.sh/Lisztos/veramo/packages/core?next",
+    "@veramo/key-manager":"https://gitpkg.now.sh/Lisztos/veramo/packages/key-manager?next",
     "base-58": "^0.0.1",
     "debug": "^4.3.3",
     "did-jwt": "^6.2.0",
@@ -38,7 +38,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "repository": "git@github.com:uport-project/veramo.git",
+ "repository": "git@github.com:Lisztos/veramo.git",
   "author": "Simonas Karuzas <simonas.karuzas@mesh.xyz>",
   "contributors": [
     {

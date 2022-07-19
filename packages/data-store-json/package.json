@@ -33,7 +33,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "repository": "git@github.com:uport-project/veramo.git",
+ "repository": "git@github.com:Lisztos/veramo.git",
   "author": "Mircea Nistor <mircea.nistor@mesh.xyz>",
   "license": "Apache-2.0",
   "keywords": []
