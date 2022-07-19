@@ -15,10 +15,10 @@
   },
   "dependencies": {
     "@veramo/core": "https://gitpkg.now.sh/Lisztos/veramo/packages/core?next",
-    "@veramo/did-jwt": "^3.1.4",
+    "@veramo/did-jwt": "https://gitpkg.now.sh/Lisztos/veramo/packages/did-jwt?next",
     "@veramo/did-resolver":"https://gitpkg.now.sh/Lisztos/veramo/packages/did-resolver?next",
-    "@veramo/message-handler": "^3.1.4",
-    "@veramo/utils": "^3.1.4",
+    "@veramo/message-handler": "https://gitpkg.now.sh/Lisztos/veramo/packages/message-handler?next",
+    "@veramo/utils": "https://gitpkg.now.sh/Lisztos/veramo/packages/utils?next",
     "debug": "^4.3.3",
     "did-jwt-vc": "^2.1.13",
     "did-resolver": "^3.2.2",

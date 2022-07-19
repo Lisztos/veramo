@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@veramo/core": "https://gitpkg.now.sh/Lisztos/veramo/packages/core?next",
-    "@veramo/message-handler": "^3.1.4",
+    "@veramo/message-handler": "https://gitpkg.now.sh/Lisztos/veramo/packages/message-handler?next",
     "cross-fetch": "^3.1.4",
     "debug": "^4.3.3",
     "url-parse": "^1.5.4"

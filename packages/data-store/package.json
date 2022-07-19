@@ -13,7 +13,7 @@
     "@veramo/did-discovery": "https://gitpkg.now.sh/Lisztos/veramo/packages/did-discovery?next",
     "@veramo/did-manager":"https://gitpkg.now.sh/Lisztos/veramo/packages/did-manager?next",
     "@veramo/key-manager":"https://gitpkg.now.sh/Lisztos/veramo/packages/key-manager?next",
-    "@veramo/utils": "^3.1.4",
+    "@veramo/utils": "https://gitpkg.now.sh/Lisztos/veramo/packages/utils?next",
     "debug": "^4.3.3",
     "typeorm": "0.3.6"
   },
